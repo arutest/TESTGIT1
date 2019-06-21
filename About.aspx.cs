@@ -11,7 +11,7 @@ namespace WebAruTest1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Page.Response.Write("<h1>ESTA ES UNA PRUEBA DE ESCRITURA</h1>")
         }
     }
 }
