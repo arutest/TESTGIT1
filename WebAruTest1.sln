@@ -5,8 +5,8 @@ VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAruTest1", "WebAruTest1.csproj", "{10C8301E-E065-4EC3-BF52-17E4376684E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAruTest1.Tests", "..\WebAruTest1.Tests\WebAruTest1.Tests.csproj", "{69C4776D-ED5C-46BE-B09D-8AA00B4884FC}"
-EndProject
+#Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAruTest1.Tests", "..\WebAruTest1.Tests\WebAruTest1.Tests.csproj", "{69C4776D-ED5C-46BE-B09D-8AA00B4884FC}"
+#EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
